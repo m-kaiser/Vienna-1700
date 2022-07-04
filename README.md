@@ -1,12 +1,12 @@
 # Vienna 1700
  Historical GIS Data for mapping the city of Vienna (around 1700)
 
-## Mapping Vienna (around 1700)
+## Mapping Historical Vienna
 
-## Steinhausenplan
+## Steinhausen City Plan (1710)
 
-## Marinoniplan
+## Marinoni City Plan (1706)
 
 ## Adresses
 
-## Coordinates Sourrounding
+## Rural Aeras
