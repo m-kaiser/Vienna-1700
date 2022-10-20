@@ -6,10 +6,10 @@ For the digitization of the suburbs, the Marinoniplan was used. The original map
 ## Researching the addresses
 The addresses mentioned in historical sources of that time can be categorized as shield or house names. Shield names were often linked to the occupation of its inhabitants ([Hasenhaus, Rabbit House](https://www.geschichtewiki.wien.gv.at/index.php?title=Hasenhaus&oldid=814378)) or stories from local history ([wo der Hahn den Hühnern predigt, where rooster is preaching to the chickens](https://www.geschichtewiki.wien.gv.at/index.php?title=Wo_der_Hahn_den_H%C3%BChnern_predigt&oldid=188609)). The house names were derived from the family name of its owner and can be found in many variant names depending on the source. For the identification of a single address, the multi-volume work of Paul Harrer-Lucienfeld *Wien. Seine Geschichte, Menschen und Kultur* was very useful. He compiled a detailed building history for the first district of Vienna based on the evaluation of land registers. By using this source, it was possible to identify the Haller’sche Haus, which was owned by the court inspector Michael Haller in the 2<sup>nd</sup> half of the 17th century, as a location on the modern address [Wollzeile 21](https://www.digital.wienbibliothek.at/Drucke/content/pageview/2289034). The coordinates for this address were then placed on the basis of the Steinhausenplan.
 # Dataset
-- Steinhausenplan 1706 (geojson)
-- Marinoniplan 1710 (geojson)
-- Vorstädte Lat Lon (dataset)
-- Wohnadressen (dataset)
+- Steinhausenplan 1706 (map as geojson)
+- Marinoniplan 1710 (map as geojson)
+- Vorstädte Lat Lon (suburbs as table)
+- Wohnadressen (adresses as table)
 
 # Interactive Map
 ![image of interactive map](https://github.com/m-kaiser/Vienna-1700/blob/main/Vienna_1700_interactive_map_preview1.png)
