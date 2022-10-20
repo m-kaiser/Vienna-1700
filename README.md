@@ -6,14 +6,14 @@ For the digitization of the suburbs, the Marinoniplan was used. The original map
 ## Researching the addresses
 The addresses mentioned in historical sources of that time can be categorized as shield or house names. Shield names were often linked to the occupation of its inhabitants ([Hasenhaus, Rabbit House](https://www.geschichtewiki.wien.gv.at/index.php?title=Hasenhaus&oldid=814378)) or stories from local history ([wo der Hahn den Hühnern predigt, where rooster is preaching to the chickens](https://www.geschichtewiki.wien.gv.at/index.php?title=Wo_der_Hahn_den_H%C3%BChnern_predigt&oldid=188609)). The house names were derived from the family name of its owner and can be found in many variant names depending on the source. For the identification of a single address, the multi-volume work of Paul Harrer-Lucienfeld *Wien. Seine Geschichte, Menschen und Kultur* had been very helpfully. He compiled a detailed building history for the first district of Vienna based on the evaluation of land registers. By using this source, it was possible to identify the Haller’sche Haus, which was owned by the court inspector Michael Haller around 1700, as a location on the modern address Wollzeile 21. The coordinates for this address were then placed on the basis of the Steinhausenplan.
 # Dataset
-- Steinhausenplan 1706
-- Marinoniplan 1710
-- Vorstädte Lat Lon
-- Wohnadressen
+- Steinhausenplan 1706 (geojson)
+- Marinoniplan 1710 (geojson)
+- Vorstädte Lat Lon (dataset)
+- Wohnadressen (dataset)
 
 # Interactive Map
 ![image of interactive map](https://github.com/m-kaiser/Vienna-1700/blob/main/Vienna_1700_interactive_map_preview1.png)
-> The historical GIS data was compiled for the visualization of prospographical data belonging to the VieCPro-project. For testing the possibilities of an interactive map, a sample of 973 persons and their 1.065 addresses (92 persons had more than one address in the sample) from the Leopold dataset was used to visualize the distribution over the city of Vienna.  
+> The historical GIS data was originally compiled for the visualization of prospographical data belonging to the VieCPro-project. For testing the possibilities of an [interactive map](https://m-kaiser.github.io/viecpro-wohnadressen/), a sample of 973 persons and their 1.065 addresses (92 persons had more than one address in the sample) from the Leopold dataset was used to visualize the distribution over the city of Vienna.  
 # Publications
 - Maximilian Kaiser, Wo das Personal Kaiser Leopolds I. wohnte: digitale Spurensuche mittels prosopographischer Daten von VieCPro, in: Michael Portmann (Red.), Die Habsburgmonarchie. Fragen, Quellen und Ergebnisse zur Geschichte der Neuzeit, hrsg. v. Institut für die Erforschung der Habsburgermonarchie und des Balkanraumes, 28.2.2022, [https://habsmon.hypotheses.org/706](https://habsmon.hypotheses.org/706).
 - Maximilian Kaiser, VieCPro Wohnadressen, in: Zenodo, v.1.0.1 (20.10.2022). DOI: 10.5281/zenodo.7228177
