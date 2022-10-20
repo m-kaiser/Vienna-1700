@@ -9,7 +9,7 @@ The addresses mentioned in historical sources of that time can be categorized as
 - Steinhausenplan 1706 (map as geojson)
 - Marinoniplan 1710 (map as geojson)
 - Vorstädte Lat Lon (suburbs as table)
-- Wohnadressen (adresses as table)
+- Wohnadressen (addresses as table)
 
 # Interactive Map
 ![image of interactive map](https://github.com/m-kaiser/Vienna-1700/blob/main/Vienna_1700_interactive_map_preview1.png)
